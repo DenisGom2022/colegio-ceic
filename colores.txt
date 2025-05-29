@@ -1,0 +1,7 @@
+Primario	Azul profundo	#1E3A8A	Fondo de encabezados, botones principales
+Secundario	Azul claro	#3B82F6	Hover, enlaces, íconos activos
+Acento cálido	Naranja coral	#F97316	Botones de llamada a la acción (CTA), íconos de advertencia
+Acento frío	Verde menta	#10B981	Éxito, validaciones, detalles decorativos
+Neutro claro	Gris claro	#F3F4F6	Fondos, tarjetas, secciones secundarias
+Neutro oscuro	Gris carbón	#111827	Texto principal, fondo de pie de página
+Color de alerta	Rojo suave	#EF4444	Errores, alertas, validaciones negativa
